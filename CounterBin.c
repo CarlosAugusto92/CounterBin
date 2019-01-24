@@ -1,8 +1,8 @@
 /*Este programa realiza un conteo en binario del 0 al 15
- Carlos Augusto Pérez Méndez.
+ Carlos Augusto PÃ©rez MÃ©ndez.
  mendezd.carlos@gmail.com
- Ingeniería Mecatrónica.
- Técnico de pruebas en Flextronics.
+ IngenierÃ­a MecatrÃ³nica.
+
  */
 
 
